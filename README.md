@@ -29,22 +29,16 @@ Soy un Data Scientist Full Stack con una pasión por el análisis de datos y el 
 - **[Sistema de Recomendación de Productos](enlace_al_repositorio)**: Implementación de un sistema de recomendación basado en filtrado colaborativo y técnicas de aprendizaje automático para personalizar las sugerencias de productos.
 - **[Aplicación Web de Visualización de Datos](enlace_al_repositorio)**: Creación de una aplicación web interactiva utilizando React y D3.js para visualizar datos complejos y facilitar el análisis de tendencias.
 
-### Experiencia
-
-- **Data Scientist Full Stack** en **[Compañía]** (Año - Año): Combiné habilidades en análisis de datos y desarrollo web para crear aplicaciones basadas en datos, desde la recogida de datos hasta la visualización y el despliegue en producción.
-- **Analista de Datos** en **[Compañía]** (Año - Año): Desarrollé informes y dashboards interactivos para el seguimiento de métricas clave, proporcionando insights valiosos para la toma de decisiones.
-
 ### Educación
 
-- **Máster en Ciencia de Datos** en **[Institución]** (Año de inicio - Año de finalización): Profundización en técnicas de análisis de datos, machine learning y big data.
-- **Licenciatura en Informática** en **[Institución]** (Año de inicio - Año de finalización): Formación sólida en programación, desarrollo web y fundamentos de ciencias de la computación.
+- **Ingenieria en Ciencia de datos** en **[Universidad Autonoma se Sinaloa]** (Año de inicio - Año de finalización): Formación sólida en programación, desarrollo web y fundamentos de ciencias de la computación.
 
 ### Contacto
 
 - **Correo Electrónico**: [tuemail@dominio.com](mailto:tuemail@dominio.com)
 - **LinkedIn**: [Tu Perfil de LinkedIn](enlace_a_linkedin)
 - **Twitter**: [@TuUsuario](enlace_a_twitter)
-- **GitHub**: [Tu Perfil de GitHub](enlace_a_github)
+- **GitHub**: []LuisD3vv](enlace_a_github)
 
 ### Habilidades
 
