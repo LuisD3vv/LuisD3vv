@@ -1,4 +1,4 @@
-# Hola, soy [Lissandro] 👋
+ # Hola, soy [Lissandro] 👋
 
 ## Sobre Mí
 
@@ -8,9 +8,9 @@ Soy un Data Scientist Full Stack con una pasión por el análisis de datos y el 
 
 #### **Data Science**
 
-- **Lenguajes de Programación**: Python, C,C++, R, SQL
-- **Frameworks y Bibliotecas**: TensorFlow, PyTorch, scikit-learn, Pandas, NumPy
-- **Bases de Datos**: PostgreSQL, MongoDB, SQLite
+- **Lenguajes de Programación**: Python
+- **Frameworks y Bibliotecas**:
+- **Bases de Datos**: PostgreSQL, SQLite
 - **Herramientas de Visualización**:Power BI
 - **Plataformas de Nube**: AWS, Google Cloud, Azure
 
