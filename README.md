@@ -1,4 +1,4 @@
- # Hola, soy [Lissandro] 👋
+ # Hola, soy Lissandro 👋
 
 ## Sobre Mí
 
