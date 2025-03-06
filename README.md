@@ -1,3 +1,4 @@
+![important]
  # Hola, soy Lissandro 👋
 
 ## Sobre Mí
@@ -11,7 +12,7 @@ Soy un Data Scientist Full Stack con una pasión por el análisis de datos y el 
 - **Lenguajes de Programación**: Python, c, c++, R
 - **Frameworks y Bibliotecas**:
 - **Bases de Datos**: PostgreSQL, SQLite
-- **Herramientas de Visualización**:Power BI
+- **Herramientas de Visualización**:Power BI, tableu
 - **Plataformas de Nube**: AWS, Google Cloud, Azure
 
 #### **Desarrollo Web**
@@ -26,11 +27,11 @@ Soy un Data Scientist Full Stack con una pasión por el análisis de datos y el 
 
 ### Educación
 
-- **Ingenieria en Ciencia de datos** en **[Universidad Autonoma se Sinaloa]** (Año de inicio - Año de finalización): Formación sólida en programación, desarrollo web y fundamentos de ciencias de la computación.
+- **Ingenieria en Ciencia de datos** en **[Universidad Autonoma se Sinaloa]** (2024 - 2028): Formación sólida en programación, desarrollo web y fundamentos de ciencias de la computación.
 
 ### Contacto
 
-- **Correo Electrónico**: [tuemail@dominio.com](mailto:tuemail@dominio.com)
+- **Correo Electrónico**: [luisdeveloper2@gmail.com)
 - **LinkedIn**: [Tu Perfil de LinkedIn](enlace_a_linkedin)
 - **Twitter**: [@TuUsuario](enlace_a_twitter)
 - **GitHub**: []LuisD3vv](enlace_a_github)
