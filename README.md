@@ -1,5 +1,4 @@
-![important]
->Hola, soy Lissandro 👋
+Hola, soy Lissandro 👋
 
 ## Sobre Mí
 
@@ -34,6 +33,6 @@ Estudiante con una pasión por el análisis de datos y el desarrollo web. Combin
 - **Correo Electrónico**: [luisdeveloper2@gmail.com)
 - **LinkedIn**: [Tu Perfil de LinkedIn](enlace_a_linkedin)
 - **Twitter**: [@TuUsuario](enlace_a_twitter)
-- **GitHub**: []LuisD3vv](enlace_a_github)
+- **GitHub**: []LuisD3vv](https://github.com/LuisD3vv)
 
 ## ¡Gracias por visitar mi perfil! 🚀
