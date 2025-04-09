@@ -4,7 +4,7 @@ Hola, soy Lissandro 👋
 
 ## Sobre Mí
 
-Estudiante con una pasión por el análisis de datos y el desarrollo web. Combino habilidades en análisis de datos y machine learning con experiencia en desarrollo web para crear soluciones integrales que permiten la toma de decisiones basadas en datos y la implementación de aplicaciones interactivas.
+Estudiante con una pasión por el análisis de datos y el desarrollo web. 
 
 ### Tecnologías y Herramientas
 
