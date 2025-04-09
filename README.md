@@ -19,10 +19,7 @@ Estudiante con una pasión por el análisis de datos y el desarrollo web. Combin
 - **Lenguajes de Programación**: HTML, CSS, JavaScript
 - **Frameworks y Librerías**: React, Angular
 - **Herramientas y Tecnologías**: Docker,Git
-- **Bases de Datos**: MySQL
-- **Otros**: RESTful APIs, GraphQL
-
-### Proyectos Destacados
+- **Bases de Datos**: MySQL, Postgres
 
 ### Educación
 
