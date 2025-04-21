@@ -13,8 +13,8 @@ Estudiante con una pasión por el análisis de datos y el desarrollo web.
 - **Lenguajes de Programación**: Python, c, c++, R
 - **Frameworks y Bibliotecas**: Flask, Django, tensorflow, pandas
 - **Bases de Datos**: PostgreSQL, SQLite
-- **Herramientas de Visualización**:Power BI, tableu
-- **Plataformas de Nube**: AWS, Google Cloud, Azure
+- **Herramientas de Visualización**:
+- **Plataformas de Nube**: 
 
 #### **Desarrollo Web**
 
