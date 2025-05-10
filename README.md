@@ -1,5 +1,3 @@
-![Background](https://github.com/LuisD3vv/LuisD3vv/blob/main/assets/Bienvenidos%20a%20mi%20perfil.png)
-
 Hola, soy Lissandro 👋
 
 ## Sobre Mí
