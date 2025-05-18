@@ -10,7 +10,7 @@ Estudiante con una pasión por el análisis de datos y el desarrollo web.
 
 ### Contacto
 
-- **Correo Electrónico**: [luisdeveloper2@gmail.com)
+- **Correo Electrónico**: luisdeveloper2@gmail.com
 - **LinkedIn**: [Tu Perfil de LinkedIn](enlace_a_linkedin)
 - **GitHub**: [LuisD3vv](https://github.com/LuisD3vv)
 
