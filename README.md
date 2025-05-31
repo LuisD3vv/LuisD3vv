@@ -6,7 +6,7 @@ Estudiante con una pasión por el análisis de datos y el desarrollo web.
 
 ### Educación
 
-- **Ingenieria en Ciencia de datos** en **[Universidad Autonoma se Sinaloa]** (2024 - 2028): Formación sólida en programación, desarrollo web y fundamentos de ciencias de la computación.
+- **Ingenieria en Ciencia de datos** en **[Universidad Autonoma se Sinaloa]**
 
 ### Contacto
 
@@ -14,4 +14,4 @@ Estudiante con una pasión por el análisis de datos y el desarrollo web.
 - **LinkedIn**: luis-ag-28370630a
 - **GitHub**: [LuisD3vv](https://github.com/LuisD3vv)
 
-## ¡Gracias por visitar mi perfil! 🚀
+## Divertirse es la clave.
