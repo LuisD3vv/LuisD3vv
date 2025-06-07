@@ -1,4 +1,4 @@
-Hola, soy Lissandro 👋
+Hola, Mi nombre es Luis Alejandro👋
 
 ## Sobre Mí
 
@@ -11,7 +11,7 @@ Estudiante con una pasión por el análisis de datos y el desarrollo web.
 ### Contacto
 
 - **Correo Electrónico**: luisdeveloper2@gmail.com
-- **LinkedIn**: luis-ag-28370630a
+- **LinkedIn**: www.linkedin.com/in/lissandro94
 - **GitHub**: [LuisD3vv](https://github.com/LuisD3vv)
 
 ## Divertirse es la clave.
