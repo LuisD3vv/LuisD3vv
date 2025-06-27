@@ -6,7 +6,7 @@ Estudiante con una pasión por el análisis de datos y el desarrollo web.
 
 ### Educación
 
-- **Ingenieria en Ciencia de datos** en **[Universidad Autonoma se Sinaloa]**
+- **Ingenieria en Ciencia de datos** en **Universidad Autonoma se Sinaloa**
 
 ### Contacto
 
