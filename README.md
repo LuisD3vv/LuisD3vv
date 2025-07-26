@@ -1,4 +1,4 @@
-Hola, Mi nombre es Luis Alejandro, Pero prefiero Lissandro
+Hola, Mi nombre es Luis Alejandro, Pero prefiero Lissandro.
 
 ## Sobre Mí
 
