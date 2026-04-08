@@ -1,8 +1,8 @@
-Hola, Mi nombre es Luis Alejandro, Pero prefiero Lissandro.
+Lissandro AG.
 
 ## Sobre Mí
 
-Estudiante con una pasión por el análisis de datos y el desarrollo web. 
+Estudiante y un gusto por análisis de datos y el desarrollo web. 
 
 ### Educación
 
