@@ -2,7 +2,7 @@ Lissandro AG.
 
 ## Sobre Mí
 
-Estudiante y un gusto por análisis de datos y el desarrollo web. 
+Estudiante de ciencia de datos y  desarrollo web. 
 
 ### Educación
 
