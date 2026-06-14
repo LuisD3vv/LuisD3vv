@@ -1,8 +1,8 @@
-###Lissandro AG.
+### Lissandro AG.
 
 Estudiante de ciencia de datos y  desarrollo web. 
 
-###Educación
+### Educación
 
 - **Ingenieria en Ciencia de datos**
 
