@@ -1,10 +1,8 @@
 Lissandro AG.
 
-## Sobre Mí
-
 Estudiante de ciencia de datos y  desarrollo web. 
 
-### Educación
+Educación
 
 - **Ingenieria en Ciencia de datos**
 
